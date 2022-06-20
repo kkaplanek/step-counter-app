@@ -1,0 +1,15 @@
+.step-counter {
+    color: blue;
+}
+
+.step-counter span {
+    font-size: 20px;
+    font-weight: 500;
+    margin-right: 10px;
+    line-height: 20px;
+}
+
+.step-counter input {
+    line-height: 20px;
+    width: 60px;
+}
